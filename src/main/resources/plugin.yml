@@ -1,0 +1,8 @@
+name: DeathChest
+version: '1.0.0-1.21.4'
+main: dev.mynny.deathChest.Main
+api-version: '1.21'
+load: STARTUP
+authors: [ Mynny ]
+description: DeathChest Plugin
+website: discord.seasonworld.net

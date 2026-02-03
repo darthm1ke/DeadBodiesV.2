@@ -1,25 +1,23 @@
-# ⚰️ DeathChest – Simple Death Item Storage (with Hologram) for Minecraft 1.21
+# ☠️ DeadBodies V.2 – Death Body Loot Recovery for Minecraft 1.21
 
-**DeathChest** is a minimalistic plugin for Minecraft 1.21 that automatically places a chest at the player’s death location.  
-All dropped items are stored safely — and a floating hologram appears above the chest to make it easier to spot.
+**DeadBodies V.2** replaces scattered death drops with a lootable body at the player’s death location.  
+The body shows a hologram name and lets players recover their items safely without hunting for exploded drops.
 
 ---
 
 ## ✅ Tested Versions
 
-- Minecraft 1.21.1  
-- Minecraft 1.21.3  
-- Minecraft 1.21.4  
+- Minecraft 1.21.11  
 > Tested on **Paper**
 
 ---
 
 ## 💡 Features
 
-- Automatically spawns a chest at the player’s death location  
-- Stores all dropped items securely in the chest  
-- Displays a floating hologram above the chest  
-- Optional: Sends a message with the chest’s coordinates (see permission)  
+- Spawns a lootable body at the player’s death location  
+- Stores all dropped items in the body inventory  
+- Displays a floating hologram name above the body  
+- Optional: Sends a message with the body’s coordinates (see permission)  
 - No setup, no config – just drop it in and go  
 - Lightweight and performance-friendly
 
@@ -27,7 +25,7 @@ All dropped items are stored safely — and a floating hologram appears above th
 
 ## 🔐 Permissions
 
-- `deathchest.location` – Players with this permission will receive a message upon death with the coordinates of their DeathChest
+- `deathchest.location` – Players with this permission will receive a message upon death with the coordinates of their body
 
 ---
 
